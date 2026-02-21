@@ -66,7 +66,8 @@ const PREMIUM_GAMES = [
     'Escape Simulator 2', 'Dead Space 2', 'Dead Space 3', 'Watch Dogs',
     'Detroit Become Human', 'Crusader Kings III', 'Watch Dogs Legion', 
 	'Mad Max', 'Riders Republic', 'Call of Duty Modern Warfare II', 
-	'No Mans Sky', 'Until Dawn'
+	'No Mans Sky', 'Until Dawn', 'Diablo II Resurrected', 'Sonic Colors Ultimate',
+	'Sonic Frontiers',
 ];
 
 /* ---------- LINKI DO POBRANIA ---------- */
@@ -80,6 +81,12 @@ const DOWNLOAD_LINKS = {
     'Roadside Research': 'https://pixeldrain.com/u/yAhtzFxr',
     'No Mans Sky': 'https://pixeldrain.com/u/SS7SkZXk',
 	'Until Dawn': 'https://pixeldrain.com/u/SS7SkZXk',
+	'Diablo II Resurrected': 'https://pixeldrain.com/u/uCrWRbyX',
+	'Sonic Colors Ultimate': 'https://pixeldrain.com/u/5TpxzYXx',
+	'Sonic Frontiers': 'https://pixeldrain.com/u/iq3Phv71',
+	'My Village Life': 'https://pixeldrain.com/u/5ZuRPuNu',
+	'Log Riders': 'https://pixeldrain.com/u/4MBBDFAA',
+	'Plants vs Zombies Replante': 'https://pixeldrain.com/u/hiiuRZrX',
 };
 
 /* ---------- FUNKCJE MODALI ---------- */
