@@ -67,7 +67,7 @@ const PREMIUM_GAMES = [
     'Detroit Become Human', 'Crusader Kings III', 'Watch Dogs Legion', 
 	'Mad Max', 'Riders Republic', 'Call of Duty Modern Warfare II', 
 	'No Mans Sky', 'Until Dawn', 'Diablo II Resurrected', 'Sonic Colors Ultimate',
-	'Sonic Frontiers',
+	'Sonic Frontiers', 'Far Cry 4', 'A Plague Tale Innocence', 'Tom Clancys Ghost Recon Wildlands',   
 ];
 
 /* ---------- LINKI DO POBRANIA ---------- */
@@ -87,6 +87,12 @@ const DOWNLOAD_LINKS = {
 	'My Village Life': 'https://pixeldrain.com/u/5ZuRPuNu',
 	'Log Riders': 'https://pixeldrain.com/u/4MBBDFAA',
 	'Plants vs Zombies Replante': 'https://pixeldrain.com/u/hiiuRZrX',
+	'Far Cry 4': 'https://pixeldrain.com/u/cfhNwnRU',
+	'A Plague Tale Innocence': 'https://pixeldrain.com/u/JYTwn81T',
+	'Call of Duty 4 Modern Warfare (2007)': 'https://pixeldrain.com/u/bMfWWJkf',
+	'Kao the Kangaroo Round 2': 'https://pixeldrain.com/u/f4vehFcu',
+	'Pure Farming 2018': 'https://pixeldrain.com/u/E9mubpR1',
+	'Tom Clancys Ghost Recon Wildlands': 'https://pixeldrain.com/u/Gu37BBLy',
 };
 
 /* ---------- FUNKCJE MODALI ---------- */
