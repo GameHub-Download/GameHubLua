@@ -93,6 +93,7 @@ const DOWNLOAD_LINKS = {
 	'Kao the Kangaroo Round 2': 'https://pixeldrain.com/u/f4vehFcu',
 	'Pure Farming 2018': 'https://pixeldrain.com/u/E9mubpR1',
 	'Tom Clancys Ghost Recon Wildlands': 'https://pixeldrain.com/u/Gu37BBLy',
+	'A Plague Tale Innocence': 'https://pixeldrain.com/u/JYTwn81T',
 };
 
 /* ---------- FUNKCJE MODALI ---------- */
