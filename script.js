@@ -67,7 +67,8 @@ const PREMIUM_GAMES = [
     'Detroit Become Human', 'Crusader Kings III', 'Watch Dogs Legion', 
 	'Mad Max', 'Riders Republic', 'Call of Duty Modern Warfare II', 
 	'No Mans Sky', 'Until Dawn', 'Diablo II Resurrected', 'Sonic Colors Ultimate',
-	'Sonic Frontiers', 'Far Cry 4', 'A Plague Tale Innocence', 'Tom Clancys Ghost Recon Wildlands',   
+	'Sonic Frontiers', 'Far Cry 4', 'A Plague Tale Innocence', 'Tom Clancys Ghost Recon Wildlands',
+    'God of War Ragnarök', 'Call of Duty Infinite Warfare',	'Mafia II Classic',
 ];
 
 /* ---------- LINKI DO POBRANIA ---------- */
@@ -97,6 +98,9 @@ const DOWNLOAD_LINKS = {
 	'My Winter Car': 'https://pixeldrain.com/u/ANnm2gfc',
 	'Medieval Dynasty': 'https://pixeldrain.com/u/9f5fRV9Z',
 	'House Flipper': 'https://pixeldrain.com/u/sttUyr8b',
+	'God of War Ragnarök': 'https://pixeldrain.com/u/GMkxEXm2',
+	'Call of Duty Infinite Warfare': 'https://pixeldrain.com/u/vZYhqTaf',
+	'Mafia II Classic': 'https://pixeldrain.com/u/Liwuqq4m',
 };
 
 /* ---------- FUNKCJE MODALI ---------- */
