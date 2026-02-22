@@ -92,8 +92,11 @@ const DOWNLOAD_LINKS = {
 	'Call of Duty 4 Modern Warfare (2007)': 'https://pixeldrain.com/u/bMfWWJkf',
 	'Kao the Kangaroo Round 2': 'https://pixeldrain.com/u/f4vehFcu',
 	'Pure Farming 2018': 'https://pixeldrain.com/u/E9mubpR1',
-	'Tom Clancys Ghost Recon Wildlands': 'https://pixeldrain.com/u/Gu37BBLy',
+	'Tom Clancys Ghost Recon Wildlands': '',
 	'A Plague Tale Innocence': 'https://pixeldrain.com/u/JYTwn81T',
+	'My Winter Car': 'https://pixeldrain.com/u/ANnm2gfc',
+	'Medieval Dynasty': 'https://pixeldrain.com/u/9f5fRV9Z',
+	'House Flipper': 'https://pixeldrain.com/u/sttUyr8b',
 };
 
 /* ---------- FUNKCJE MODALI ---------- */
