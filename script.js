@@ -68,7 +68,8 @@ const PREMIUM_GAMES = [
 	'Mad Max', 'Riders Republic', 'Call of Duty Modern Warfare II', 
 	'No Mans Sky', 'Until Dawn', 'Diablo II Resurrected', 'Sonic Colors Ultimate',
 	'Sonic Frontiers', 'Far Cry 4', 'A Plague Tale Innocence', 'Tom Clancys Ghost Recon Wildlands',
-    'God of War Ragnarök', 'Call of Duty Infinite Warfare',	'Mafia II Classic',
+    'God of War Ragnarök', 'Call of Duty Infinite Warfare',	'Mafia II Classic', 'Tom Clancys Splinter Cell Blacklist',
+	'Company of Heroes 3', 'Far Cry 6',
 ];
 
 /* ---------- LINKI DO POBRANIA ---------- */
@@ -81,7 +82,7 @@ const DOWNLOAD_LINKS = {
     'Call of Duty Modern Warfare II': 'https://pixeldrain.com/u/ahEFdGEx',
     'Roadside Research': 'https://pixeldrain.com/u/yAhtzFxr',
     'No Mans Sky': 'https://pixeldrain.com/u/SS7SkZXk',
-	'Until Dawn': 'https://pixeldrain.com/u/SS7SkZXk',
+	'Until Dawn': 'https://pixeldrain.com/u/biasRniG',
 	'Diablo II Resurrected': 'https://pixeldrain.com/u/uCrWRbyX',
 	'Sonic Colors Ultimate': 'https://pixeldrain.com/u/5TpxzYXx',
 	'Sonic Frontiers': 'https://pixeldrain.com/u/iq3Phv71',
@@ -101,6 +102,12 @@ const DOWNLOAD_LINKS = {
 	'God of War Ragnarök': 'https://pixeldrain.com/u/GMkxEXm2',
 	'Call of Duty Infinite Warfare': 'https://pixeldrain.com/u/vZYhqTaf',
 	'Mafia II Classic': 'https://pixeldrain.com/u/Liwuqq4m',
+	'Company of Heroes 3': 'https://pixeldrain.com/u/7TT2nNDW',
+	'Tom Clancys Splinter Cell Blacklist': 'https://pixeldrain.com/u/mjud5T9d',
+	'Far Cry 6': 'https://pixeldrain.com/u/6fy5ZYJG',
+	'Far Cry 3': 'https://pixeldrain.com/u/iomsLQLM',
+	'Assassins Creed Brotherhood': 'https://pixeldrain.com/u/sngW2xEz',
+	'American Truck Simulator': 'https://pixeldrain.com/u/KuxBs4VP',
 };
 
 /* ---------- FUNKCJE MODALI ---------- */
