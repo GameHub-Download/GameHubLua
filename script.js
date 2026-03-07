@@ -69,7 +69,7 @@ const PREMIUM_GAMES = [
 	'No Mans Sky', 'Until Dawn', 'Diablo II Resurrected', 'Sonic Colors Ultimate',
 	'Sonic Frontiers', 'Far Cry 4', 'A Plague Tale Innocence', 'Tom Clancys Ghost Recon Wildlands',
     'God of War Ragnarök', 'Call of Duty Infinite Warfare',	'Mafia II Classic', 'Tom Clancys Splinter Cell Blacklist',
-	'Company of Heroes 3', 'Far Cry 6',
+	'Company of Heroes 3', 'Far Cry 6', 'Assassins Creed Mirage', 'Need for Speed Hot Pursuit', 'Assassins Creed Valhalla', 
 ];
 
 /* ---------- LINKI DO POBRANIA ---------- */
@@ -108,6 +108,12 @@ const DOWNLOAD_LINKS = {
 	'Far Cry 3': 'https://pixeldrain.com/u/iomsLQLM',
 	'Assassins Creed Brotherhood': 'https://pixeldrain.com/u/sngW2xEz',
 	'American Truck Simulator': 'https://pixeldrain.com/u/KuxBs4VP',
+	'Need for Speed Hot Pursuit': 'https://pixeldrain.com/u/HHmvpCPi',
+	'Assassins Creed Valhalla': 'https://pixeldrain.com/u/gppbfjrw',
+	'Assassins Creed Mirage': 'https://pixeldrain.com/u/LnYiR5ko',
+	'Age of History II': 'https://pixeldrain.com/u/imS9zXwF',
+	'Heavy Cargo': 'https://pixeldrain.com/u/pyPD9aw8',
+	'OHV': 'https://pixeldrain.com/u/nJtUtaTH',
 };
 
 /* ---------- FUNKCJE MODALI ---------- */
