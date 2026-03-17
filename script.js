@@ -70,6 +70,7 @@ const PREMIUM_GAMES = [
 	'Sonic Frontiers', 'Far Cry 4', 'A Plague Tale Innocence', 'Tom Clancys Ghost Recon Wildlands',
     'God of War Ragnarök', 'Call of Duty Infinite Warfare',	'Mafia II Classic', 'Tom Clancys Splinter Cell Blacklist',
 	'Company of Heroes 3', 'Far Cry 6', 'Assassins Creed Mirage', 'Need for Speed Hot Pursuit', 'Assassins Creed Valhalla', 
+	'Forza Horizon 5', 'Forza Horizon 4', 'The Witcher 3 Wild Hunt',
 ];
 
 /* ---------- LINKI DO POBRANIA ---------- */
@@ -114,6 +115,14 @@ const DOWNLOAD_LINKS = {
 	'Age of History II': 'https://pixeldrain.com/u/imS9zXwF',
 	'Heavy Cargo': 'https://pixeldrain.com/u/pyPD9aw8',
 	'OHV': 'https://pixeldrain.com/u/nJtUtaTH',
+	'Lens Island': 'https://e.pcloud.link/publink/show?code=XZOBc6ZB9r1XbteCPJQAXJMxw1TbYu2Yc7X',
+	'Phasmophobia': 'https://pixeldrain.com/u/gcawYNuS',
+	'Metro 2033 Redux': 'https://pixeldrain.com/u/zusjP9Q2',
+	'Just Cause 2': 'https://pixeldrain.com/u/pBXdPvqD',
+	'Max Payne 3': 'https://pixeldrain.com/u/EWEuGMNq',
+	'Forza Horizon 5': 'https://pixeldrain.com/u/e2h9tKUc',
+	'Forza Horizon 4': 'https://pixeldrain.com/u/YGMwPSDL',
+	'The Witcher 3 Wild Hunt': 'https://pixeldrain.com/u/aqgLWgtR',
 };
 
 /* ---------- FUNKCJE MODALI ---------- */
