@@ -125,7 +125,7 @@ const DOWNLOAD_LINKS = {
 	'The Witcher 3 Wild Hunt': 'https://pixeldrain.com/u/aqgLWgtR',
 	'Medal of Honor': 'https://pixeldrain.com/u/zWFJoUjg',
 	'Firefighting Simulator Ignite': 'https://pixeldrain.com/u/ixxiXjUv',
-	'TKebab Chefs Restaurant Simulator': 'https://pixeldrain.com/u/W1mCX642',
+	'Kebab Chefs Restaurant Simulator': 'https://pixeldrain.com/u/W1mCX642',
 	'Watch Dogs 2': 'https://pixeldrain.com/u/yvo9kDzE',
 	'RoadCraft': 'https://pixeldrain.com/u/xSvjHFu8',
 	'DOOM The Dark Ages': 'https://pixeldrain.com/u/D6ygV5LF',
