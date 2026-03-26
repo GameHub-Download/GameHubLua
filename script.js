@@ -70,7 +70,8 @@ const PREMIUM_GAMES = [
 	'Sonic Frontiers', 'Far Cry 4', 'A Plague Tale Innocence', 'Tom Clancys Ghost Recon Wildlands',
     'God of War Ragnarök', 'Call of Duty Infinite Warfare',	'Mafia II Classic', 'Tom Clancys Splinter Cell Blacklist',
 	'Company of Heroes 3', 'Far Cry 6', 'Assassins Creed Mirage', 'Need for Speed Hot Pursuit', 'Assassins Creed Valhalla', 
-	'Forza Horizon 5', 'Forza Horizon 4', 'The Witcher 3 Wild Hunt',
+	'Forza Horizon 5', 'Forza Horizon 4', 'The Witcher 3 Wild Hunt', 'Raft', 'Cyberpunk 2077', 'Fallout 4', 'Call of Duty Black Ops',
+	'Sekiro Shadows Die Twice', 'Split Fiction', 'Marvels SpiderMan 2',
 ];
 
 /* ---------- LINKI DO POBRANIA ---------- */
@@ -129,6 +130,18 @@ const DOWNLOAD_LINKS = {
 	'Watch Dogs 2': 'https://pixeldrain.com/u/yvo9kDzE',
 	'RoadCraft': 'https://pixeldrain.com/u/xSvjHFu8',
 	'DOOM The Dark Ages': 'https://pixeldrain.com/u/D6ygV5LF',
+	'Outlast': 'https://pixeldrain.com/u/b9cybqfq',
+	'Battlefield 3': 'https://pixeldrain.com/u/a6CQ9sbj',
+	'Sejm The Game': 'https://pixeldrain.com/u/h2b2Lq6R',
+	'Fallout 4': 'https://pixeldrain.com/u/XeL4obrv',
+	'Raft': 'https://pixeldrain.com/u/mVY3snsX',
+	'Cyberpunk 2077': 'https://pixeldrain.com/u/K4aXk76t',
+	'Call of Duty Black Ops': 'https://pixeldrain.com/u/z7zvMAK9',
+	'HAM The Game': 'https://shrinkme.click/HAMTheGame',
+	'Split Fiction': 'https://pixeldrain.com/u/rhVvj3io',
+	'Sekiro Shadows Die Twice': 'https://pixeldrain.com/u/JBSgsvNZ',
+	'Marvels SpiderMan 2': 'https://pixeldrain.com/u/GAwrH36J',
+	
 };
 
 /* ---------- FUNKCJE MODALI ---------- */
