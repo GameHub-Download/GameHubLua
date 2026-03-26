@@ -71,7 +71,8 @@ const PREMIUM_GAMES = [
     'God of War Ragnarök', 'Call of Duty Infinite Warfare',	'Mafia II Classic', 'Tom Clancys Splinter Cell Blacklist',
 	'Company of Heroes 3', 'Far Cry 6', 'Assassins Creed Mirage', 'Need for Speed Hot Pursuit', 'Assassins Creed Valhalla', 
 	'Forza Horizon 5', 'Forza Horizon 4', 'The Witcher 3 Wild Hunt', 'Raft', 'Cyberpunk 2077', 'Fallout 4', 'Call of Duty Black Ops',
-	'Sekiro Shadows Die Twice', 'Split Fiction', 'Marvels SpiderMan 2', 'Outlast 2', 'Detroit Become Human', 'Battlefield 4',
+	'Sekiro Shadows Die Twice', 'Split Fiction', 'Marvels SpiderMan 2', 'Outlast 2', 'Detroit Become Human', 'Battlefield 4', 'Grand Theft Auto V Legacy',
+	'Castlevania Lords of Shadow 2', 'Sons Of The Forest',
 ];
 
 /* ---------- LINKI DO POBRANIA ---------- */
@@ -146,7 +147,12 @@ const DOWNLOAD_LINKS = {
 	'Outlast 2': 'https://pixeldrain.com/u/NyBMqjse',
 	'Detroit Become Human': 'https://pixeldrain.com/u/soQczpED',
 	'Battlefield 4': 'https://pixeldrain.com/u/GFGJ1W6v',
-	
+	'Hello Neighbor 2': 'https://shrinkme.click/helloo',
+	'Geometry Dash': 'https://shrinkme.click/Geometry',
+	'Sifu': 'https://shrinkme.click/sifu',
+	'Castlevania Lords of Shadow 2': 'https://pixeldrain.com/u/WY8RDYaV',
+	'Grand Theft Auto V Legacy': 'https://pixeldrain.com/u/3HEzYK2W',
+	'Sons The Forest': 'https://pixeldrain.com/u/BWXQvuqd',
 };
 
 /* ---------- FUNKCJE MODALI ---------- */
