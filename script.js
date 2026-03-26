@@ -71,13 +71,13 @@ const PREMIUM_GAMES = [
     'God of War Ragnarök', 'Call of Duty Infinite Warfare',	'Mafia II Classic', 'Tom Clancys Splinter Cell Blacklist',
 	'Company of Heroes 3', 'Far Cry 6', 'Assassins Creed Mirage', 'Need for Speed Hot Pursuit', 'Assassins Creed Valhalla', 
 	'Forza Horizon 5', 'Forza Horizon 4', 'The Witcher 3 Wild Hunt', 'Raft', 'Cyberpunk 2077', 'Fallout 4', 'Call of Duty Black Ops',
-	'Sekiro Shadows Die Twice', 'Split Fiction', 'Marvels SpiderMan 2',
+	'Sekiro Shadows Die Twice', 'Split Fiction', 'Marvels SpiderMan 2', 'Outlast 2', 'Detroit Become Human', 'Battlefield 4',
 ];
 
 /* ---------- LINKI DO POBRANIA ---------- */
 const DOWNLOAD_LINKS = {
     'Watch Dogs Legion': 'https://pixeldrain.com/u/2ZWZLR2P',
-    'The Forest': 'https://pixeldrain.com/u/YYe29Ags',
+    'The Forest': 'https://shrinkme.click/theforest',
     'Mad Max': 'https://pixeldrain.com/u/Wy6YAiwx',
     'Riders Republic': 'https://pixeldrain.com/u/affyWTms',
     'London 2012': 'https://pixeldrain.com/u/sBbzmgpi',
@@ -141,6 +141,11 @@ const DOWNLOAD_LINKS = {
 	'Split Fiction': 'https://pixeldrain.com/u/rhVvj3io',
 	'Sekiro Shadows Die Twice': 'https://pixeldrain.com/u/JBSgsvNZ',
 	'Marvels SpiderMan 2': 'https://pixeldrain.com/u/GAwrH36J',
+	'Raft': 'https://shrinkme.click/Rafttt',
+	'Car Service Together': 'https://shrinkme.click/CarServiceTogether',
+	'Outlast 2': 'https://pixeldrain.com/u/NyBMqjse',
+	'Detroit Become Human': 'https://pixeldrain.com/u/soQczpED',
+	'Battlefield 4': 'https://pixeldrain.com/u/GFGJ1W6v',
 	
 };
 
