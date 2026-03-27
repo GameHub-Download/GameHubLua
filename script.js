@@ -72,7 +72,7 @@ const PREMIUM_GAMES = [
 	'Company of Heroes 3', 'Far Cry 6', 'Assassins Creed Mirage', 'Need for Speed Hot Pursuit', 'Assassins Creed Valhalla', 
 	'Forza Horizon 5', 'Forza Horizon 4', 'The Witcher 3 Wild Hunt', 'Raft', 'Cyberpunk 2077', 'Fallout 4', 'Call of Duty Black Ops',
 	'Sekiro Shadows Die Twice', 'Split Fiction', 'Marvels SpiderMan 2', 'Outlast 2', 'Detroit Become Human', 'Battlefield 4', 'Grand Theft Auto V Legacy',
-	'Castlevania Lords of Shadow 2', 'Sons Of The Forest',
+	'Castlevania Lords of Shadow 2', 'Sons Of The Forest', 'Resident Evil Village', 'Call of Duty Modern Warfare 3', 'Call of Duty Black Ops II',
 ];
 
 /* ---------- LINKI DO POBRANIA ---------- */
@@ -153,6 +153,12 @@ const DOWNLOAD_LINKS = {
 	'Castlevania Lords of Shadow 2': 'https://pixeldrain.com/u/WY8RDYaV',
 	'Grand Theft Auto V Legacy': 'https://pixeldrain.com/u/3HEzYK2W',
 	'Sons The Forest': 'https://pixeldrain.com/u/BWXQvuqd',
+	'Schedule I': 'https://shrinkme.click/schedule',
+	'Scam Line': 'https://shrinkme.click/scamline',
+	'Boat Together': 'https://shrinkme.click/boattogether',
+	'Resident Evil Village': 'https://pixeldrain.com/u/KfLQRrnN',
+	'Call of Duty Black Ops II': 'https://pixeldrain.com/u/x6581yxB',
+	'Call of Duty Modern Warfare 3': 'https://pixeldrain.com/u/LWnJ5jBB',
 };
 
 /* ---------- FUNKCJE MODALI ---------- */
