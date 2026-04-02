@@ -159,6 +159,12 @@ const DOWNLOAD_LINKS = {
 	'Resident Evil Village': 'https://pixeldrain.com/u/KfLQRrnN',
 	'Call of Duty Black Ops II': 'https://pixeldrain.com/u/x6581yxB',
 	'Call of Duty Modern Warfare 3': 'https://pixeldrain.com/u/LWnJ5jBB',
+	'Pawnbroker Simulator': 'https://shrinkme.click/Pawnbroker',
+	'Dying Light': 'https://shrinkme.click/dyinglight',
+	'Call of Duty Black Ops III': 'https://pixeldrain.com/u/MmdwZCX9',
+	'Call of Duty Black Ops II': 'https://pixeldrain.com/u/TRcDNQEv',
+	'Resident evil Village': 'https://pixeldrain.com/u/wQNLHimu',
+	'Call of Duty Modern Warfare 3': 'https://pixeldrain.com/u/LWnJ5jBB',
 };
 
 /* ---------- FUNKCJE MODALI ---------- */
